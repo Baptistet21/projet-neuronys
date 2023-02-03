@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projetneuronys-dev-161806-authRole",
+      "UnauthRoleArn": "arn:aws:iam::525468443880:role/amplify-projetneuronys-dev-161806-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::525468443880:role/amplify-projetneuronys-dev-161806-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-projetneuronys-dev-161806-deployment",
+      "UnauthRoleName": "amplify-projetneuronys-dev-161806-unauthRole",
+      "StackName": "amplify-projetneuronys-dev-161806",
+      "StackId": "arn:aws:cloudformation:eu-west-3:525468443880:stack/amplify-projetneuronys-dev-161806/f6408b20-a3d5-11ed-8896-0e1f9690d388",
+      "AmplifyAppId": "d1f7er7pygcod4",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-projetneuronys-dev-161806-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "projetneuronys5e6a90ae5e6a90ae": {},
+        "userPoolGroups": {}
+      },
+      "function": {
+        "projetneuronys5e6a90ae5e6a90aePostConfirmation": {
+          "deploymentBucketName": "amplify-projetneuronys-dev-161806-deployment",
+          "s3Key": "amplify-builds/projetneuronys5e6a90ae5e6a90aePostConfirmation-634746374d7731432f6c-build.zip"
+        }
+      },
+      "api": {
+        "projetneuronys": {}
+      }
+    }
+  }
+}
